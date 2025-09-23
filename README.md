@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/AmiiirCom/AmiiirCom/main/profile.jpg" alt="AmiiirCom Banner" width="10%" />
-
   <h1>✨ AmiiirCom</h1>
   <p><strong>Developer | Designer | Dreamer</strong></p>
   <p>⚡ I don’t write code… I rewrite reality. One commit at a time</p>
