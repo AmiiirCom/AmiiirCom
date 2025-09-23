@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- 🔥 عنوان و تصویر شخصی (اگر داری) -->
-  <img src="https://raw.githubusercontent.com/AmiiirCom/AmiiirCom/main/profile.png" alt="AmiiirCom Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AmiiirCom/AmiiirCom/main/profile.jpg" alt="AmiiirCom Banner" width="100%" />
 
   <h1>✨ AmiiirCom</h1>
   <p><strong>Developer | Designer | Dreamer</strong></p>
