@@ -57,9 +57,6 @@
 <!-- DevOps & Tools Badges -->
 <p align="center">
   <strong>DevOps & Tools</strong><br>
-<!-- DevOps & Tools Badges -->
-<p align="center">
-  <strong>DevOps & Tools</strong><br>
   <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL" />
@@ -74,22 +71,28 @@
 
 <br>
 
-<!-- GitHub Stats Section: beautifully laid out with cards -->
+<!-- GitHub Stats Section: Modern and Engaging -->
 <h3 align="center">📊 GitHub Stats & Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmiiirCom&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=D62F79&icon_color=D62F79" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiiirCom&theme=radical&hide_border=true&background=0d1117&ring=D62F79&fire=D62F79&currStreakLabel=D62F79" width="49%" />
+  <!-- A comprehensive infographics card from Metrics -->
+  <img src="https://metrics.lecoq.io/AmiiirCom?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=Asia%2FTehran" width="49%" />
+  
+  <!-- An animated activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiiirCom&theme=radical&hide_border=true&bg_color=0d1117&color=D62F79&line=D62F79&point=FFFFFF&area=true&area_color=D62F79&custom_title=Contribution%20Graph" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiirCom&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=D62F79" width="45%" />
+  <!-- A dynamic streak stats card to replace the classic one -->
+  <img src="https://streak-stats.demolab.com?user=AmiiirCom&theme=radical&hide_border=true&background=0d1117&stroke=D62F79&ring=D62F79&fire=D62F79&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D62F79&sideLabels=D62F79&dates=FFFFFF" width="45%" />
+  
+  <!-- A beautiful trophy case -->
   <img src="https://github-profile-trophy.vercel.app/?username=AmiiirCom&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="45%" />
 </div>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter (Enhanced) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmiiirCom&label=Profile%20Views&color=D62F79&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AmiiirCom&label=Profile%20Views&color=D62F79&style=flat-square" alt="Profile Views" />
 </p>
 
 <br>
