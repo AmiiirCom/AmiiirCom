@@ -14,60 +14,16 @@
 </div>
 
 
-<!-- Tech & Tools Section with refined badges -->
+<!-- Skills -->
 <h3 align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="22"/> 
-  &nbsp;Tech & Tools&nbsp;
+  &nbsp;My Skills&nbsp;
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="22"/>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,anaconda,androidstudio,bash,bootstrap,c,cloudflare,css,debian,django,docker,express,fastapi,figma,flask,git,github,githubactions,go,gradle,html,htmx,js,jquery,kali,kotlin,laravel,linux,matlab,maven,mongodb,mysql,nginx,nodejs,npm,nuxtjs,opencv,php,phpstorm,pinia,pnpm,postgres,postman,pycharm,py,pytorch,qt,redis,regex,sass,sqlite,sublime,sklearn,selenium,tailwind,tensorflow,ubuntu,visualstudio,vite,vscode,vue,webpack,windows,wordpress&perline=10)" />
+  </a>
 </h3>
-
-<!-- Frontend Badges -->
-<p align="center">
-  <strong>Frontend</strong><br>
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass" />
-  <img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=TailwindCSS&logoColor=38BDF8" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-282C34?logo=jQuery&logoColor=0769AD" alt="jQuery" />
-  <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=Nuxt.js&logoColor=00DC82" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint" />
-  <img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier&logoColor=F7B93E" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8DD6F9" alt="Webpack" />
-</p>
-
-<!-- Backend Badges -->
-<p align="center">
-  <strong>Backend</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=FFFFFF" alt="Express" />
-  <img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=FF2D20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Symfony-282C34?logo=Symfony&logoColor=FFFFFF" alt="Symfony" />
-  <img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=007396" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=092E20" alt="Django" />
-  <img src="https://img.shields.io/badge/Golang-282C34?logo=Go&logoColor=00ADD8" alt="Golang" />
-</p>
-
-<!-- DevOps & Tools Badges -->
-<p align="center">
-  <strong>DevOps & Tools</strong><br>
-  <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-282C34?logo=Redis&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-282C34?logo=GitHubActions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=VisualStudioCode&logoColor=007ACC" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-282C34?logo=Linux&logoColor=FCC624" alt="Linux" />
-</p>
 
 <br>
 
