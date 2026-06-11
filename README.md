@@ -21,7 +21,7 @@
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="22"/>
   <br>
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,anaconda,androidstudio,bash,bootstrap,c,cloudflare,css,debian,django,docker,express,fastapi,figma,flask,git,github,githubactions,go,gradle,html,htmx,js,jquery,kali,kotlin,laravel,linux,matlab,maven,mongodb,mysql,nginx,nodejs,npm,nuxtjs,opencv,php,phpstorm,pinia,pnpm,postgres,postman,pycharm,py,pytorch,qt,redis,regex,sass,sqlite,sublime,sklearn,selenium,tailwind,tensorflow,ubuntu,visualstudio,vite,vscode,vue,webpack,windows,wordpress&perline=10)" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,anaconda,androidstudio,bash,bootstrap,c,cloudflare,css,debian,django,docker,express,fastapi,figma,flask,git,github,githubactions,go,gradle,html,htmx,js,jquery,kali,kotlin,laravel,linux,matlab,maven,mongodb,mysql,nginx,nodejs,npm,nuxtjs,opencv,php,phpstorm,pinia,pnpm,postgres,postman,pycharm,py,pytorch,qt,redis,regex,sass,sqlite,sublime,sklearn,selenium,tailwind,tensorflow,ubuntu,visualstudio,vite,vscode,vue,webpack,windows,wordpress&perline=10" />
   </a>
 </h3>
 
